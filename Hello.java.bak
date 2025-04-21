@@ -7,10 +7,10 @@ class Hello
 		System.out.println("Edit Plus!");
 
 		System.out.println("Hello World!");
-<<<<<<< HEAD
+
         int A=20;
-=======
+
                 int a=10;
->>>>>>> 2c6201f8060fe3a680fea935359fa059e27103ef
+
 	}
 }

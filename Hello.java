@@ -7,6 +7,6 @@ class Hello
 		System.out.println("Edit Plus!");
 
 		System.out.println("Hello World!");
-
+                int a=10;
 	}
 }

@@ -10,7 +10,7 @@ class Hello
 
         int A=20;
 
-                int a=10;
+                int B=10;
 
 	}
 }

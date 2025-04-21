@@ -3,10 +3,14 @@ class Hello
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World!");
-<<<<<<< HEAD
+
 		System.out.println("Edit Plus!");
-=======
+
 		System.out.println("Hello World!");
->>>>>>> e0693e7542cdd83ebc13923ecef91e6798e46e79
+<<<<<<< HEAD
+        int A=20;
+=======
+                int a=10;
+>>>>>>> 2c6201f8060fe3a680fea935359fa059e27103ef
 	}
 }

@@ -7,13 +7,12 @@ class Hello
 		System.out.println("Edit Plus!");
 
 		System.out.println("Hello World!");
-<<<<<<< HEAD
         String s="Ali";
-     
+        int a=10;
+<<<<<<< HEAD
+        String s1="Hi";
 =======
-
-                int a=10;
->>>>>>> a53c976eb30cab2eed481da1809b53f25868d997
-
+         Double d=5.5;
+>>>>>>> f97c8739f9a974929fae63f181f63b512d8ee8e6
 	}
 }

@@ -7,7 +7,7 @@ class Hello
 		System.out.println("Edit Plus!");
 
 		System.out.println("Hello World!");
-
+        String s="Ali";
      
 
 	}

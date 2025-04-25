@@ -8,13 +8,7 @@ class Hello
 
 		System.out.println("Hello World!");
 
-        int A=20;
-
-
-                int Z=10;
-
-                int B=10;
-
+     
 
 	}
 }

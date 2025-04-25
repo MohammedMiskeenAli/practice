@@ -10,11 +10,11 @@ class Hello
 
         int A=20;
 
-<<<<<<< HEAD
+
                 int Z=10;
-=======
+
                 int B=10;
->>>>>>> 7a6e7cff9c8dcb7e5acbabe33e56bacc9e743ca3
+
 
 	}
 }

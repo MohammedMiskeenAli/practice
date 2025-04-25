@@ -8,10 +8,7 @@ class Hello
 
 		System.out.println("Hello World!");
         String s="Ali";
-        int a=10;
-        String s1="Hi";
-
-         Double d=5.5;
+		int i=35;
 
 	}
 }

@@ -8,7 +8,11 @@ class Hello
 
 		System.out.println("Hello World!");
         String s="Ali";
+
 		int i=35;
+
+        int a=40;
+
 
 	}
 }
